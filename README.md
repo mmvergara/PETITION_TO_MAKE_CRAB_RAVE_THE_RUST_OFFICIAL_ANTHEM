@@ -2,7 +2,7 @@
 
 Today, we gather to discuss a matter of utmost importance: the dire need for Rust to adopt "Crab Rave" as its official theme song.
 
-The goal is to convince the rust team to put "Crab Rave" video embed in the **Official Rust Documentation**.
+The goal is to convince the rust team to put "Crab Rave" in the **Official Rust Documentation**.
 
 ## Signatures (Open up a PR to sign) 🦀
 
