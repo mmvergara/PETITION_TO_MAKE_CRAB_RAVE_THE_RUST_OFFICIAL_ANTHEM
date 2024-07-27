@@ -2,8 +2,6 @@ A petition to adopt "Crab Rave" as Rust's official anthem.
 
 # Crab Rave as Rust's Anthem
 
-![](http://i.imgur.com/OUkLi.gif)
-
 ![]("rave.gif")
 
 ## Introduction
